@@ -10,8 +10,7 @@ Halo! Saya Fajar Andhika, seorang pelajar yang bersemangat dalam bidang IT. Sela
 
 ## 📈 Statistik GitHub
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=fandh1&show_icons=true&theme=radical)
-![Language programming](https://github-readme-stats.vercel.app/api/top-langs?username=fandh1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
+![Statistik GitHub]([https://github-readme-stats.vercel.app/api?username=fandh1&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs?username=fandh1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2))
 
 
 ## 🌍 Proyek Menarik
