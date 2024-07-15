@@ -15,7 +15,7 @@ Halo! Saya [Nama Anda], seorang [posisi/pekerjaan Anda] yang bersemangat dalam [
 
 ## 🌍 Proyek Menarik
 
-- [Proyek 1]([link-ke-proyek1](https://github.com/fandh1/online-shop)):Tugas Sekolah.
+- [Proyek 1](https://github.com/fandh1/online-shop):Tugas Sekolah.
 - [Proyek 2](link-ke-proyek2): Deskripsi singkat tentang proyek ini.
 - [Proyek 3](link-ke-proyek3): Deskripsi singkat tentang proyek ini.
 
