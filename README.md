@@ -11,20 +11,11 @@ Halo! Saya [Nama Anda], seorang [posisi/pekerjaan Anda] yang bersemangat dalam [
 
 ## 📈 Statistik GitHub
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-
-## 🛠️ Teknologi yang Saya Kuasai
-
-| Bahasa/Framework | Tingkat Keahlian |
-|------------------|------------------|
-| JavaScript        | 🌟🌟🌟🌟🌟         |
-| Python           | 🌟🌟🌟🌟          |
-| React             | 🌟🌟🌟🌟🌟         |
-| Node.js           | 🌟🌟🌟🌟          |
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=fandh1&show_icons=true&theme=radical)
 
 ## 🌍 Proyek Menarik
 
-- [Proyek 1](link-ke-proyek1): Deskripsi singkat tentang proyek ini.
+- [Proyek 1]([link-ke-proyek1](https://github.com/fandh1/online-shop)):Tugas Sekolah.
 - [Proyek 2](link-ke-proyek2): Deskripsi singkat tentang proyek ini.
 - [Proyek 3](link-ke-proyek3): Deskripsi singkat tentang proyek ini.
 
