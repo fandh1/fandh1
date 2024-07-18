@@ -10,7 +10,7 @@ Halo! Saya [Nama Anda], seorang [posisi/pekerjaan Anda] yang bersemangat dalam [
 
 ## 📈 Statistik GitHub
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=fandh1&show_icons=true&theme=radical)
 
 ## 🌍 Proyek Menarik
 
