@@ -8,10 +8,6 @@ Halo! Saya [Nama Anda], seorang [posisi/pekerjaan Anda] yang bersemangat dalam [
 - 🌱 Saat ini, ssaya sedang belajar tentang data analisis.
 - ⚡ Hobi saya adalah melakukan hal seru
 
-## 📈 Statistik GitHub
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=fandh1&show_icons=true&theme=radical)
-
 ## 🌍 Proyek Menarik
 
 - [Proyek 1](https://github.com/fandh1/online-shop):Tugas Sekolah.
